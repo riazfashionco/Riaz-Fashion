@@ -178,6 +178,13 @@
       "subs": []
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "ew12pax",
+      "name": "শীতের কালেকশন",
+      "color": "#243B7A",
+      "active": true
+    }
+  ],
   "products": []
 }
