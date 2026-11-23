@@ -106,5 +106,134 @@
     }
   ],
   "events": [],
-  "products": []
+  "products": [
+    {
+      "id": "p3vkzyq",
+      "code": "RF-102",
+      "name": "Dinem Shirt",
+      "cat": "c-cloth",
+      "sub": "s-tshirt",
+      "events": [],
+      "price": 5000,
+      "old": 0,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vpb5ktj",
+          "name": "টিল",
+          "hex": "#2e5888",
+          "imgs": [
+            "images/xmhc21mwto3qx9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pb456l8",
+      "code": "RF-103",
+      "name": "Dinem Shirt",
+      "cat": "c-cloth",
+      "sub": "s-tshirt",
+      "events": [],
+      "price": 5000,
+      "old": 0,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v6m6o27",
+          "name": "",
+          "hex": "#2e5888",
+          "imgs": [
+            "images/b8bacomwto3w3p.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pms1a86",
+      "code": "RF-104",
+      "name": "Dinem Shirt",
+      "cat": "c-cloth",
+      "sub": "s-tshirt",
+      "events": [],
+      "price": 5000,
+      "old": 0,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vjil0pz",
+          "name": "",
+          "hex": "#2e5888",
+          "imgs": [
+            "images/7527hdmwto444r.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8mihrg",
+      "code": "RF-105",
+      "name": "Dinem Shirt",
+      "cat": "c-cloth",
+      "sub": "s-tshirt",
+      "events": [],
+      "price": 5000,
+      "old": 0,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfm6h8i",
+          "name": "",
+          "hex": "#2e5888",
+          "imgs": [
+            "images/tu4b78mwto47k3.jpg"
+          ]
+        }
+      ]
+    }
+  ]
 }
