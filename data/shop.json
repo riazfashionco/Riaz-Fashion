@@ -2,12 +2,12 @@
   "schema": 2,
   "shop": {
     "name": "Riaz Fashion",
-    "tagline": "Fashion শুধু নয়, এটা আপনার Lifestyle! সারা বাংলাদেশে ক্যাশ অন ডেলিভারি ও হোম ডেলিভারি।",
-    "logo": "images/logo-rf.png",
+    "tagline": "Riaz Fashion",
+    "logo": "images/logo-jcmi4xmwtnsrs6.png",
     "waIcon": "",
     "ogImage": "images/ogImage-rf.jpg",
-    "favicon": "images/favicon-rf.png",
-    "brandColor": "#111111",
+    "favicon": "images/favicon-v1ac78mwtnssza.png",
+    "brandColor": "#731c01",
     "heroEyebrow": "নতুন কালেকশন এসেছে",
     "heroTitle": "Wear Your Style. সারা বাংলাদেশে হোম ডেলিভারি",
     "heroSub": "টি-শার্ট, শার্ট, প্যান্ট, পাঞ্জাবি, জুতা, ব্যাগ ও ঘড়ি। পছন্দ করুন, অর্ডার কনফার্ম করুন, হাতে পেয়ে টাকা দিন।",
@@ -18,9 +18,8 @@
       "১০০% অরিজিনাল পণ্য"
     ],
     "marquee": [
-      "Fashion শুধু নয়, এটা আপনার Lifestyle!",
       "সারা বাংলাদেশে ক্যাশ অন ডেলিভারি",
-      "পছন্দের পণ্যে চাপ দিয়ে সহজেই অর্ডার করুন"
+      "পছন্দের সহজেই অর্ডার করুন"
     ],
     "about": "Riaz Fashion – টি-শার্ট, শার্ট, প্যান্ট, পাঞ্জাবি, জুতা, ব্যাগ ও ঘড়ি এক জায়গায়। অর্ডার করুন ঘরে বসে।",
     "policies": [
@@ -28,7 +27,7 @@
       "ক্যাশ অন ডেলিভারি: পণ্য দেখে বুঝে টাকা দিন",
       "১০০% অরিজিনাল পণ্য"
     ],
-    "copyright": "© {year} Riaz Fashion. সর্বস্বত্ব সংরক্ষিত।",
+    "copyright": "© {year} Riaz Fashion. Design By Rafid Ahammed",
     "orderEmail": "riazfashion.co@gmail.com",
     "emailjsService": "service_pirvzof",
     "emailjsTemplate": "template_bmzz7kh",
