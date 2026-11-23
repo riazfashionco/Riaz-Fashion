@@ -1,0 +1,111 @@
+{
+  "schema": 2,
+  "shop": {
+    "name": "Riaz Fashion",
+    "tagline": "Fashion শুধু নয়, এটা আপনার Lifestyle! সারা বাংলাদেশে ক্যাশ অন ডেলিভারি ও হোম ডেলিভারি।",
+    "logo": "images/logo-rf.png",
+    "waIcon": "",
+    "ogImage": "images/ogImage-rf.jpg",
+    "favicon": "images/favicon-rf.png",
+    "brandColor": "#111111",
+    "heroEyebrow": "নতুন কালেকশন এসেছে",
+    "heroTitle": "Wear Your Style. সারা বাংলাদেশে হোম ডেলিভারি",
+    "heroSub": "টি-শার্ট, শার্ট, প্যান্ট, পাঞ্জাবি, জুতা, ব্যাগ ও ঘড়ি। পছন্দ করুন, অর্ডার কনফার্ম করুন, হাতে পেয়ে টাকা দিন।",
+    "heroBtn": "কেনাকাটা শুরু করুন",
+    "perks": [
+      "ক্যাশ অন ডেলিভারি",
+      "সারা বাংলাদেশে ডেলিভারি",
+      "১০০% অরিজিনাল পণ্য"
+    ],
+    "marquee": [
+      "Fashion শুধু নয়, এটা আপনার Lifestyle!",
+      "সারা বাংলাদেশে ক্যাশ অন ডেলিভারি",
+      "পছন্দের পণ্যে চাপ দিয়ে সহজেই অর্ডার করুন"
+    ],
+    "about": "Riaz Fashion – টি-শার্ট, শার্ট, প্যান্ট, পাঞ্জাবি, জুতা, ব্যাগ ও ঘড়ি এক জায়গায়। অর্ডার করুন ঘরে বসে।",
+    "policies": [
+      "সারা বাংলাদেশে হোম ডেলিভারি দেওয়া হয়",
+      "ক্যাশ অন ডেলিভারি: পণ্য দেখে বুঝে টাকা দিন",
+      "১০০% অরিজিনাল পণ্য"
+    ],
+    "copyright": "© {year} Riaz Fashion. সর্বস্বত্ব সংরক্ষিত।",
+    "orderEmail": "riazfashion.co@gmail.com",
+    "emailjsService": "service_pirvzof",
+    "emailjsTemplate": "template_bmzz7kh",
+    "emailjsKey": "SVIBtSVRNLpVQW0Dy",
+    "contactEmail": "",
+    "phone": "",
+    "whatsapp": "",
+    "facebook": "",
+    "address": "",
+    "bkash": "",
+    "nagad": "",
+    "feeIn": 60,
+    "feeOut": 120,
+    "freeOver": 0,
+    "adsOn": false,
+    "ads": [
+      {
+        "slot": "shop",
+        "on": false,
+        "key": "",
+        "w": 320,
+        "h": 50,
+        "src": ""
+      },
+      {
+        "slot": "how",
+        "on": false,
+        "key": "",
+        "w": 320,
+        "h": 50,
+        "src": ""
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "c-cloth",
+      "name": "পোশাক",
+      "visible": true,
+      "subs": [
+        {
+          "id": "s-tshirt",
+          "name": "টি-শার্ট"
+        },
+        {
+          "id": "s-shirt",
+          "name": "শার্ট"
+        },
+        {
+          "id": "s-pant",
+          "name": "প্যান্ট"
+        },
+        {
+          "id": "s-panjabi",
+          "name": "পাঞ্জাবি"
+        }
+      ]
+    },
+    {
+      "id": "c-shoes",
+      "name": "জুতা",
+      "visible": true,
+      "subs": []
+    },
+    {
+      "id": "c-bag",
+      "name": "ব্যাগ",
+      "visible": true,
+      "subs": []
+    },
+    {
+      "id": "c-watch",
+      "name": "ঘড়ি",
+      "visible": true,
+      "subs": []
+    }
+  ],
+  "events": [],
+  "products": []
+}
