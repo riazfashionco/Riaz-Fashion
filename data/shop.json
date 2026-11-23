@@ -186,5 +186,38 @@
       "active": true
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": "pocs16b",
+      "code": "RF-101",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [],
+      "price": 590,
+      "old": 890,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "একসাথে অনেকগুলো ডিলিট বা পিন করতে অথবা ইচ্ছানুযায়ী নতুন ক্লিপ যোগ করতে \"Manage\" বাটনে চাপুনযেকোন লেখা বা ছবি কপি করলে \"Recent\" এ আসবে। তবে পিন না করলে ১ ঘন্টা পর মুছে যাবে",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vmsl6z6",
+          "name": "নীল",
+          "hex": "#4c77ad",
+          "imgs": [
+            "images/dgvyh8mwtp3ph0.jpg"
+          ]
+        }
+      ]
+    }
+  ]
 }
