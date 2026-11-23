@@ -105,7 +105,14 @@
       "subs": []
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "e8f6cib",
+      "name": "শীতের কালেকশন",
+      "color": "#243B7A",
+      "active": true
+    }
+  ],
   "products": [
     {
       "id": "p3vkzyq",
