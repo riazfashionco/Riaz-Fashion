@@ -218,6 +218,102 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pbg4xx5",
+      "code": "RF-102",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [],
+      "price": 590,
+      "old": 890,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "একসাথে অনেকগুলো ডিলিট বা পিন করতে অথবা ইচ্ছানুযায়ী নতুন ক্লিপ যোগ করতে \"Manage\" বাটনে চাপুনযেকোন লেখা বা ছবি কপি করলে \"Recent\" এ আসবে। তবে পিন না করলে ১ ঘন্টা পর মুছে যাবে",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vd3jeqs",
+          "name": "নীল",
+          "hex": "#4c77ad",
+          "imgs": [
+            "images/h4stkumwtp4u09.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps29ue0",
+      "code": "RF-103",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [],
+      "price": 590,
+      "old": 890,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "একসাথে অনেকগুলো ডিলিট বা পিন করতে অথবা ইচ্ছানুযায়ী নতুন ক্লিপ যোগ করতে \"Manage\" বাটনে চাপুনযেকোন লেখা বা ছবি কপি করলে \"Recent\" এ আসবে। তবে পিন না করলে ১ ঘন্টা পর মুছে যাবে",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vvrpknr",
+          "name": "নীল",
+          "hex": "#4c77ad",
+          "imgs": [
+            "images/vrlblnmwtp523v.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pf7p79d",
+      "code": "RF-104",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [],
+      "price": 590,
+      "old": 890,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "একসাথে অনেকগুলো ডিলিট বা পিন করতে অথবা ইচ্ছানুযায়ী নতুন ক্লিপ যোগ করতে \"Manage\" বাটনে চাপুনযেকোন লেখা বা ছবি কপি করলে \"Recent\" এ আসবে। তবে পিন না করলে ১ ঘন্টা পর মুছে যাবে",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vbuwdwi",
+          "name": "সাদা",
+          "hex": "#f2f2f2",
+          "imgs": [
+            "images/8q0xoqmwtp58cp.jpg"
+          ]
+        }
+      ]
     }
   ]
 }
