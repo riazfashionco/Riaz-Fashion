@@ -188,6 +188,58 @@
   ],
   "products": [
     {
+      "id": "pehfw06",
+      "code": "RF-106",
+      "name": "Stylish Design Winter Hoodie",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1099,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵 ফেব্রিক্স: প্রিমিয়াম ফিলিপস কটন\n⚖️ GSM: ৩০০ GSM (হেভিওয়েট)\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট\n👕 ফিটিং: রেগুলার ফিট\n🧥 নেক টাইপ: হুডেড নেক\n✋ স্লিভ: ফুল স্লিভ\n❄️ কমফোর্ট: সফট, উষ্ণ ও ব্রিদেবল\n✨ কোয়ালিটি: প্রিমিয়াম ফিনিশিং ও মজবুত স্টিচিং\n🌡️ উপযোগী: শীতকাল ও ঠান্ডা আবহাওয়া\n📏 সাইজ: M, L, XL, XXL",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnsepto",
+          "name": "মেরুন",
+          "hex": "#6a0319",
+          "imgs": [
+            "images/9nywmqmwuu8tx4.jpg",
+            "images/jl97u6mwuu9luz.jpg",
+            "images/aoxywhmwuu9w6l.jpg"
+          ]
+        },
+        {
+          "id": "ve7stn7",
+          "name": "ক্রিম",
+          "hex": "#fbe7d0",
+          "imgs": [
+            "images/0b5nlimwuuaokm.jpg"
+          ]
+        },
+        {
+          "id": "vj73rvl",
+          "name": "সাদা",
+          "hex": "#f1effa",
+          "imgs": [
+            "images/9lasbomwuub0lm.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pocs16b",
       "code": "RF-101",
       "name": "Denim Shirt",
