@@ -1,0 +1,23 @@
+{
+  "name": "Riaz Fashion",
+  "short_name": "Riaz Fashion",
+  "description": "Riaz Fashion – টি-শার্ট, শার্ট, প্যান্ট, পাঞ্জাবি, জুতা, ব্যাগ ও ঘড়ির অনলাইন শপ। সারা বাংলাদেশে ক্যাশ অন ডেলিভারি ও হোম ডেলিভারি।",
+  "lang": "bn-BD",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/favicon-rf.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
