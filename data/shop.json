@@ -188,6 +188,64 @@
   ],
   "products": [
     {
+      "id": "p185bqp",
+      "code": "RF-108",
+      "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ডিটেইলসঃ\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন ২০০+ জিএসএম।\nট্রাউজার ফেব্রিক্সঃ চায়না সুইট ২৮০ জিএসএম।\nডিজাইনঃ হাই নেক কলার অ্যান্ড বডিতে জিপার।\nপ্রিমিয়াম কোয়ালিটির ডিটিএফ প্রিন্ট করা।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vtxla0v",
+          "name": "কালো",
+          "hex": "#121212",
+          "imgs": [
+            "images/ubyx23mwuvr82v.jpg"
+          ]
+        },
+        {
+          "id": "v6k7f1c",
+          "name": "সাদা",
+          "hex": "#f2f3f8",
+          "imgs": [
+            "images/vhk8qamwuvrf0x.jpg"
+          ]
+        },
+        {
+          "id": "vlgjrwx",
+          "name": "কালো",
+          "hex": "#101010",
+          "imgs": [
+            "images/m9qapomwuvrklc.jpg"
+          ]
+        },
+        {
+          "id": "vb5fwvu",
+          "name": "সাদা",
+          "hex": "#f1f2f6",
+          "imgs": [
+            "images/b1m6kpmwuvrw1j.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pehfw06",
       "code": "RF-106",
       "name": "Stylish Design Winter Hoodie",
