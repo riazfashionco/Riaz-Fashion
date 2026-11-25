@@ -192,6 +192,108 @@
   ],
   "products": [
     {
+      "id": "pwvdw7y",
+      "code": "RF-143",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: ভার্সিটি জ্যাকেট।\n🧵 ফেব্রিক: ১০০% কটন, ওয়ান সাইড ব্রাশ।\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট।\n⭐ ফেব্রিক কোয়ালিটি: ৩০০± GSM।\n👕 উপযোগী: ছেলে ও মেয়ে উভয়ের জন্য।\n🛍️ অর্ডার করার আগে সাইজ মেজারমেন্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vaoa0gp",
+          "name": "বোতল সবুজ",
+          "hex": "#163928",
+          "imgs": [
+            "images/3gt5l3mwvuc147.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p21yuxr",
+      "code": "RF-142",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: ভার্সিটি জ্যাকেট।\n🧵 ফেব্রিক: ১০০% কটন, ওয়ান সাইড ব্রাশ।\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট।\n⭐ ফেব্রিক কোয়ালিটি: ৩০০± GSM।\n👕 উপযোগী: ছেলে ও মেয়ে উভয়ের জন্য।\n🛍️ অর্ডার করার আগে সাইজ মেজারমেন্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnnaiqz",
+          "name": "কালো",
+          "hex": "#171717",
+          "imgs": [
+            "images/imzrmomwvubmxh.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pzi8vpy",
+      "code": "RF-141",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: ভার্সিটি জ্যাকেট।\n🧵 ফেব্রিক: ১০০% কটন, ওয়ান সাইড ব্রাশ।\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট।\n⭐ ফেব্রিক কোয়ালিটি: ৩০০± GSM।\n👕 উপযোগী: ছেলে ও মেয়ে উভয়ের জন্য।\n🛍️ অর্ডার করার আগে সাইজ মেজারমেন্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgab2xj",
+          "name": "কফি",
+          "hex": "#4f232c",
+          "imgs": [
+            "images/2q0kepmwvubcb7.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pp8p8co",
       "code": "RF-139",
       "name": "Premium Stylish World Cup Hoodie",
