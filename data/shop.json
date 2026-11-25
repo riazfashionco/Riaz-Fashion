@@ -192,6 +192,108 @@
   ],
   "products": [
     {
+      "id": "p21253s",
+      "code": "RF-154",
+      "name": "Premium Embroidery Full Sleeve Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵 ফ্যাব্রিক: প্রিমিয়াম চায়না কর্ড ফেব্রিক্স।\n🔲 ফ্যাব্রিক প্যাটার্ন: স্কয়ার বক্স টেক্সচার।\n🪡 ডিজাইন: প্রিমিয়াম এমব্রয়ডারি লোগো।\n⚖️ জিএসএম: ২৩০ জিএসএম ফেব্রিক্স।\n☁️ সফট ফিল: নরম ও আরামদায়ক।\n👔 কলার: প্রিমিয়াম স্টাইলিশ কাপ কলার।\n😎 লুক: স্টাইলিশ ও প্রিমিয়াম লুক।\n❄️ উপযোগিতা: শীতের জন্য পারফেক্ট।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vd7dz97",
+          "name": "কফি",
+          "hex": "#343526",
+          "imgs": [
+            "images/qv321hmwvvgsyv.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptpmiwx",
+      "code": "RF-153",
+      "name": "Premium Embroidery Full Sleeve Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵 ফ্যাব্রিক: প্রিমিয়াম চায়না কর্ড ফেব্রিক্স।\n🔲 ফ্যাব্রিক প্যাটার্ন: স্কয়ার বক্স টেক্সচার।\n🪡 ডিজাইন: প্রিমিয়াম এমব্রয়ডারি লোগো।\n⚖️ জিএসএম: ২৩০ জিএসএম ফেব্রিক্স।\n☁️ সফট ফিল: নরম ও আরামদায়ক।\n👔 কলার: প্রিমিয়াম স্টাইলিশ কাপ কলার।\n😎 লুক: স্টাইলিশ ও প্রিমিয়াম লুক।\n❄️ উপযোগিতা: শীতের জন্য পারফেক্ট।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9yv1rq",
+          "name": "কালো",
+          "hex": "#161516",
+          "imgs": [
+            "images/dy5kjsmwvvgnp0.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pwz0h2d",
+      "code": "RF-152",
+      "name": "Premium Embroidery Full Sleeve Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵 ফ্যাব্রিক: প্রিমিয়াম চায়না কর্ড ফেব্রিক্স।\n🔲 ফ্যাব্রিক প্যাটার্ন: স্কয়ার বক্স টেক্সচার।\n🪡 ডিজাইন: প্রিমিয়াম এমব্রয়ডারি লোগো।\n⚖️ জিএসএম: ২৩০ জিএসএম ফেব্রিক্স।\n☁️ সফট ফিল: নরম ও আরামদায়ক।\n👔 কলার: প্রিমিয়াম স্টাইলিশ কাপ কলার।\n😎 লুক: স্টাইলিশ ও প্রিমিয়াম লুক।\n❄️ উপযোগিতা: শীতের জন্য পারফেক্ট।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v92iudv",
+          "name": "কফি",
+          "hex": "#692f2a",
+          "imgs": [
+            "images/gnj9ybmwvvggac.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "psfysmk",
       "code": "RF-150",
       "name": "Premium Quality Winter Hoodies",
