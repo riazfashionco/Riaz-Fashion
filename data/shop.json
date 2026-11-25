@@ -188,11 +188,11 @@
   ],
   "products": [
     {
-      "id": "p4zahlf",
-      "code": "RF-122",
+      "id": "prg8556",
+      "code": "RF-124",
       "name": "Stylish Ladies Overcoat",
-      "cat": "c-boys",
-      "sub": "s-sweat",
+      "cat": "c-girls",
+      "sub": "",
       "events": [
         "ew12pax"
       ],
@@ -212,7 +212,7 @@
       "video": "",
       "variants": [
         {
-          "id": "vwua9ru",
+          "id": "v8rjige",
           "name": "কালো",
           "hex": "#0b0b0b",
           "imgs": [
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "id": "vhqsz9g",
+          "id": "vv8f8rw",
           "name": "ছাই রঙ",
           "hex": "#cdc9ce",
           "imgs": [
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "id": "vaftlpi",
+          "id": "vs3qzjg",
           "name": "কালো",
           "hex": "#131012",
           "imgs": [
@@ -236,7 +236,7 @@
           ]
         },
         {
-          "id": "vk5yxul",
+          "id": "v1oicfj",
           "name": "মেরুন",
           "hex": "#6c0b19",
           "imgs": [
