@@ -188,6 +188,64 @@
   ],
   "products": [
     {
+      "id": "pvhreae",
+      "code": "RF-116",
+      "name": "Stylish Kids Hoodie Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "হুডি সেটের ডিটেইলসঃ\nফেব্রিক্সঃ ওয়ান সাইড ব্রাশ প্রিমিয়াম কোয়ালিটি।\nহুডি এন্ড ট্রাউজারের ফেব্রিক্স ২৯০/৩১০ জি.এস.এম।\n১০০% এক্সপোর্ট কোয়ালিটি হুডি সেট।\n৯-১০টি উইনিক কালার এভেলেবেল।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vmjrsy8",
+          "name": "মেরুন",
+          "hex": "#751324",
+          "imgs": [
+            "images/t6m2vwmwviv7gw.jpg"
+          ]
+        },
+        {
+          "id": "v0kj6po",
+          "name": "কফি",
+          "hex": "#4a4d34",
+          "imgs": [
+            "images/bxniw5mwvivcot.jpg"
+          ]
+        },
+        {
+          "id": "vthxi4x",
+          "name": "কালো",
+          "hex": "#141216",
+          "imgs": [
+            "images/phps0hmwvivgay.jpg"
+          ]
+        },
+        {
+          "id": "vjd5abs",
+          "name": "গোলাপি",
+          "hex": "#fc338d",
+          "imgs": [
+            "images/5agjmqmwvivjjq.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p0uc5xt",
       "code": "RF-114",
       "name": "Exclusive Padding Jacket for Men",
