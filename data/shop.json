@@ -188,6 +188,64 @@
   ],
   "products": [
     {
+      "id": "py0y4hc",
+      "code": "RF-118",
+      "name": "Stylish Ladies Zipper Hoodie",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1100,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n✓ হুডিঃ ফুল স্লিভ লেডিস জিপার হুডি।\n✓ ফেব্রিক্সঃ ৩০০ জিএসএম কটন কাপড়।\n✓ মেটেরিয়ালঃ ফ্লিস কটন, ওয়ান সাইড ব্রাশ।\n✓ ডিজাইনঃ স্টাইলিশ ও ট্রেন্ডি ক্যাট ডিজাইন।\n✓ ফিচারঃ আরামদায়ক, নরম ও শীতের উপযোগী।\n✓ এভাইলেবল সাইজঃ M, L, XL",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vdltp88",
+          "name": "মেরুন",
+          "hex": "#6a011b",
+          "imgs": [
+            "images/mzby64mwvj05j9.jpg"
+          ]
+        },
+        {
+          "id": "vg37ag4",
+          "name": "গোলাপি",
+          "hex": "#f8308b",
+          "imgs": [
+            "images/hk4rzxmwvj0826.jpg"
+          ]
+        },
+        {
+          "id": "vum1x9z",
+          "name": "বেইজ",
+          "hex": "#fcb6d8",
+          "imgs": [
+            "images/bl2yxamwvj0b6f.jpg"
+          ]
+        },
+        {
+          "id": "vcfde46",
+          "name": "বেইজ",
+          "hex": "#fbb5d4",
+          "imgs": [
+            "images/90zwhhmwvj0dzd.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pvhreae",
       "code": "RF-116",
       "name": "Stylish Kids Hoodie Set",
