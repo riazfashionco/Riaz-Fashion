@@ -192,6 +192,49 @@
   ],
   "products": [
     {
+      "id": "pxwsxee",
+      "code": "RF-136",
+      "name": "Premium Stylish World Cup Hoodie",
+      "cat": "c-boys",
+      "sub": "seixigi",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1100,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কোয়ালিটির সেমি ব্যাগি হুডি কালেকশন।\nফেব্রিক্সঃ ১০০% কটন ওয়ান সাইড ব্রাশ।\nডিজাইনঃ প্রিমিয়াম DTF প্রিন্ট।\nকোয়ালিটিঃ ৩৩০-৩৫০ GSM ফেব্রিক্সঃ।\nইউজেবল ফর মেল এন্ড ফিমেল।\nসাইজ মেজারমেন্ট দেখে অর্ডার প্লেস করুন",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vktf1d0",
+          "name": "কালো",
+          "hex": "#0d0c0e",
+          "imgs": [
+            "images/piow2pmwvu4j48.jpg",
+            "images/rm0k5imwvu4xnu.jpg"
+          ]
+        },
+        {
+          "id": "vylfula",
+          "name": "সাদা",
+          "hex": "#f6f2ee",
+          "imgs": [
+            "images/8utorzmwvu4ulj.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pghgc3n",
       "code": "RF-134",
       "name": "Stylish High Neck Sweatshirt",
