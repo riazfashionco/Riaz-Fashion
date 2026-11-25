@@ -196,6 +196,105 @@
   ],
   "products": [
     {
+      "id": "pfd0sij",
+      "code": "RF-187",
+      "name": "New product",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 600,
+      "old": 850,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক: ১০০% কটন।\nফেব্রিক টাইপ: ২/২ রিবড কটন।\nGSM: ৩০০+ GSM।\nডিজাইন: স্টাইলিশ রিবড হাই নেক।\nওয়াশ: এনজাইম ও সিলিকন ওয়াশ।\nকমফোর্ট: নরম, স্ট্রেচেবল ও ত্বকবান্ধব ফেব্রিক।\nকোয়ালিটি: ১০০% এক্সপোর্ট কোয়ালিটি স্টিচ ও ফিনিশিং।\nব্যবহার: ক্যাজুয়াল ও ফরমাল—দুই ক্ষেত্রেই মানানসই",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v15h4uy",
+          "name": "কালো",
+          "hex": "#100f12",
+          "imgs": [
+            "images/vb4omgmwvwy0jr.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pkxsnrf",
+      "code": "RF-186",
+      "name": "New product",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 600,
+      "old": 850,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক: ১০০% কটন।\nফেব্রিক টাইপ: ২/২ রিবড কটন।\nGSM: ৩০০+ GSM।\nডিজাইন: স্টাইলিশ রিবড হাই নেক।\nওয়াশ: এনজাইম ও সিলিকন ওয়াশ।\nকমফোর্ট: নরম, স্ট্রেচেবল ও ত্বকবান্ধব ফেব্রিক।\nকোয়ালিটি: ১০০% এক্সপোর্ট কোয়ালিটি স্টিচ ও ফিনিশিং।\nব্যবহার: ক্যাজুয়াল ও ফরমাল—দুই ক্ষেত্রেই মানানসই",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8p4azr",
+          "name": "সাদা",
+          "hex": "#f2f2f2",
+          "imgs": [
+            "images/3ec0gimwvwxuiu.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pm5jxvv",
+      "code": "RF-185",
+      "name": "New product",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 600,
+      "old": 850,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক: ১০০% কটন।\nফেব্রিক টাইপ: ২/২ রিবড কটন।\nGSM: ৩০০+ GSM।\nডিজাইন: স্টাইলিশ রিবড হাই নেক।\nওয়াশ: এনজাইম ও সিলিকন ওয়াশ।\nকমফোর্ট: নরম, স্ট্রেচেবল ও ত্বকবান্ধব ফেব্রিক।\nকোয়ালিটি: ১০০% এক্সপোর্ট কোয়ালিটি স্টিচ ও ফিনিশিং।\nব্যবহার: ক্যাজুয়াল ও ফরমাল—দুই ক্ষেত্রেই মানানসই",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgdrrze",
+          "name": "কালো",
+          "hex": "#31080d",
+          "imgs": [
+            "images/jklvvwmwvwxoza.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pj7rdab",
       "code": "RF-183",
       "name": "Stylish Ladies Zipper Hoodie",
