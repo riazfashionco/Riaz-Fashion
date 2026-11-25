@@ -70,6 +70,10 @@
       "visible": true,
       "subs": [
         {
+          "id": "seixigi",
+          "name": "হুডি"
+        },
+        {
           "id": "s-sweat",
           "name": "সোয়েটশার্ট"
         },
@@ -82,16 +86,16 @@
           "name": "ড্রপ শোল্ডার"
         },
         {
-          "id": "s-polo",
-          "name": "পোলো টিশার্ট"
-        },
-        {
           "id": "s-shirt",
           "name": "শার্ট"
         },
         {
           "id": "stgrj4f",
           "name": "ডেনিম শার্ট"
+        },
+        {
+          "id": "s-polo",
+          "name": "পোলো টিশার্ট"
         },
         {
           "id": "s-half",
