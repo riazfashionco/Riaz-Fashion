@@ -188,6 +188,64 @@
   ],
   "products": [
     {
+      "id": "pv6d784",
+      "code": "RF-120",
+      "name": "Stylish Design Winter Hoodie",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1100,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵 ফেব্রিক্স: প্রিমিয়াম ফিলিপস কটন\n⚖️ GSM: ৩০০ GSM (হেভিওয়েট)\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট\n👕 ফিটিং: রেগুলার ফিট\n🧥 নেক টাইপ: হুডেড নেক\n✋ স্লিভ: ফুল স্লিভ\n❄️ কমফোর্ট: সফট, উষ্ণ ও ব্রিদেবল\n✨ কোয়ালিটি: প্রিমিয়াম ফিনিশিং ও মজবুত স্টিচিং\n🌡️ উপযোগী: শীতকাল ও ঠান্ডা আবহাওয়া\n📏 সাইজ: M, L, XL, XXL",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vz9uupm",
+          "name": "কালো",
+          "hex": "#100d0c",
+          "imgs": [
+            "images/zzdnyvmwvlbpdn.jpg"
+          ]
+        },
+        {
+          "id": "ve03yyr",
+          "name": "সাদা",
+          "hex": "#ece9ea",
+          "imgs": [
+            "images/9kxfngmwvlbse6.jpg"
+          ]
+        },
+        {
+          "id": "vcjmbei",
+          "name": "কালো",
+          "hex": "#130f0e",
+          "imgs": [
+            "images/gypyvhmwvlbx2k.jpg"
+          ]
+        },
+        {
+          "id": "vrrxipc",
+          "name": "কালো",
+          "hex": "#131110",
+          "imgs": [
+            "images/f7o7ghmwvlc0ka.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "py0y4hc",
       "code": "RF-118",
       "name": "Stylish Ladies Zipper Hoodie",
