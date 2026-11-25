@@ -192,6 +192,142 @@
   ],
   "products": [
     {
+      "id": "pz51x3d",
+      "code": "RF-168",
+      "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1299,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ডিটেইলসঃ\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন ২০০+ জিএসএম।\nট্রাউজার ফেব্রিক্সঃ চায়না সুইট ২৮০ জিএসএম।\nডিজাইনঃ হাই নেক কলার অ্যান্ড বডিতে জিপার।\nপ্রিমিয়াম কোয়ালিটির ডিটিএফ প্রিন্ট করা।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vpg1a3i",
+          "name": "কালো",
+          "hex": "#121212",
+          "imgs": [
+            "images/fwfgpcmwvwdrz9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prer1vx",
+      "code": "RF-167",
+      "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1299,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ডিটেইলসঃ\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন ২০০+ জিএসএম।\nট্রাউজার ফেব্রিক্সঃ চায়না সুইট ২৮০ জিএসএম।\nডিজাইনঃ হাই নেক কলার অ্যান্ড বডিতে জিপার।\nপ্রিমিয়াম কোয়ালিটির ডিটিএফ প্রিন্ট করা।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfwomk9",
+          "name": "কালো",
+          "hex": "#101010",
+          "imgs": [
+            "images/2e5v5emwvwdlhv.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p122mtj",
+      "code": "RF-166",
+      "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1299,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ডিটেইলসঃ\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন ২০০+ জিএসএম।\nট্রাউজার ফেব্রিক্সঃ চায়না সুইট ২৮০ জিএসএম।\nডিজাইনঃ হাই নেক কলার অ্যান্ড বডিতে জিপার।\nপ্রিমিয়াম কোয়ালিটির ডিটিএফ প্রিন্ট করা।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "voh6gfv",
+          "name": "সাদা",
+          "hex": "#f2f3f8",
+          "imgs": [
+            "images/ga2ryemwvwdfwd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pnq4u12",
+      "code": "RF-165",
+      "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
+      "cat": "c-boys",
+      "sub": "sumq9qj",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1299,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ডিটেইলসঃ\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন ২০০+ জিএসএম।\nট্রাউজার ফেব্রিক্সঃ চায়না সুইট ২৮০ জিএসএম।\nডিজাইনঃ হাই নেক কলার অ্যান্ড বডিতে জিপার।\nপ্রিমিয়াম কোয়ালিটির ডিটিএফ প্রিন্ট করা।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vszkypn",
+          "name": "কালো",
+          "hex": "#121212",
+          "imgs": [
+            "images/q3q158mwvwda9b.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pr4mt01",
       "code": "RF-163",
       "name": "Full Sleeve T-Shirt & Trouser Set",
