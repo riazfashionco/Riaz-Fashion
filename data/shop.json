@@ -188,6 +188,64 @@
   ],
   "products": [
     {
+      "id": "p0uc5xt",
+      "code": "RF-114",
+      "name": "Exclusive Padding Jacket for Men",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1300,
+      "old": 2000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Exclusive European style Padding Jacket for Winter\nProduct Type: Padding Jacket\nMain Material:\nOunce: 6 Ounce Padding\nFabrics: Micro fabrics\nInside: inside taffeta",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhxwb4c",
+          "name": "মেরুন",
+          "hex": "#510205",
+          "imgs": [
+            "images/i7ssw3mwvh3zdx.jpg"
+          ]
+        },
+        {
+          "id": "v1lbyi5",
+          "name": "কালো",
+          "hex": "#100402",
+          "imgs": [
+            "images/zqfitemwvh4347.jpg"
+          ]
+        },
+        {
+          "id": "vfjc6gd",
+          "name": "কালো",
+          "hex": "#09080c",
+          "imgs": [
+            "images/eh7e8fmwvh46ah.jpg"
+          ]
+        },
+        {
+          "id": "vqmvfqq",
+          "name": "কালো",
+          "hex": "#110d04",
+          "imgs": [
+            "images/ydq0bjmwvh49lb.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pnmofzk",
       "code": "RF-112",
       "name": "New product",
