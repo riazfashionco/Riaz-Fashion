@@ -192,6 +192,57 @@
   ],
   "products": [
     {
+      "id": "phfuyne",
+      "code": "RF-126",
+      "name": "Sweatshirt for Winter",
+      "cat": "c-boys",
+      "sub": "seixigi",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: প্রিমিয়াম সোয়েটশার্ট\nমেইন ম্যাটেরিয়াল: কটন\nফেব্রিক: ফ্লিস (Fleece)\nGSM: ২৯০ (±)\nডিজাইন: প্রিমিয়াম এমব্রয়ডারি\nফেব্রিক কোয়ালিটি: ১০০% এক্সপোর্ট কোয়ালিটি\nইনার ফেব্রিক: ব্যাক সাইড ব্রাশ\nরিব: ম্যাচিং রিবড",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vazy5xd",
+          "name": "কালো",
+          "hex": "#090909",
+          "imgs": [
+            "images/w3muz9mwvpcmxv.jpg",
+            "images/w8gcnkmwvpdoxf.jpg",
+            "images/4sbnzamwvpdrdv.jpg"
+          ]
+        },
+        {
+          "id": "vsuk9xn",
+          "name": "মেরুন",
+          "hex": "#760d25",
+          "imgs": [
+            "images/a5stxcmwvpddj1.jpg"
+          ]
+        },
+        {
+          "id": "vajhvgo",
+          "name": "সাদা",
+          "hex": "#e6e6e8",
+          "imgs": [
+            "images/vps4aqmwvpdgrd.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "prg8556",
       "code": "RF-124",
       "name": "Stylish Ladies Overcoat",
