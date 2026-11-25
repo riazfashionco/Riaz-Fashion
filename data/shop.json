@@ -192,6 +192,40 @@
   ],
   "products": [
     {
+      "id": "pcmzdyw",
+      "code": "RF-132",
+      "name": "Stylish High Neck Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Product Details\nপ্রোডাক্ট টাইপ: হাফ জিপার সোয়েটশার্ট\nফেব্রিক: ২/২ রিবড টেক্সচার\nজিএসএম: ২৮০–৩১০\nডিজাইন: হাফ জিপার",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vc6hs7p",
+          "name": "মেরুন",
+          "hex": "#480e1b",
+          "imgs": [
+            "images/p4d2ismwvu0nk4.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p42cb6o",
       "code": "RF-130",
       "name": "Premium Trendy Denim Shirt",
