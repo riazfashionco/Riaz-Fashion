@@ -192,6 +192,49 @@
   ],
   "products": [
     {
+      "id": "p42cb6o",
+      "code": "RF-130",
+      "name": "Premium Trendy Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 750,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧵ফেব্রিক্সঃ প্রিমিয়াম ডেনিম কাপড়।\n💪 GSM: 220+ — মোটা, মজবুত ও টেকসই ফেব্রিক।\n👌 স্টাইলিশ পকেট ডিজাইন ও আকর্ষণীয় ডেনিম লুক।\n🔘 এই শার্টটিতে রয়েছে প্রিমিয়াম স্নাপ বাটুন।\n😎 স্মার্ট ও ক্যাজুয়াল — দুই ধরনের লুকেই মানানসই।\n✨ উন্নতমানের সুইং ফিনিশিং।\n💯 দীর্ঘদিন ব্যবহারের উপযোগী।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vwy3xf3",
+          "name": "নেভি ব্লু",
+          "hex": "#112952",
+          "imgs": [
+            "images/f6qcp9mwvtvlln.jpg",
+            "images/amc6aymwvtvqic.jpg"
+          ]
+        },
+        {
+          "id": "v9ar6dz",
+          "name": "কালো",
+          "hex": "#0f0e10",
+          "imgs": [
+            "images/86luy5mwvtvog7.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p8kcgki",
       "code": "RF-128",
       "name": "Premium Padding Vest Jacket",
