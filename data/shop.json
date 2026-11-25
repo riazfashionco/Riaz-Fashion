@@ -192,6 +192,105 @@
   ],
   "products": [
     {
+      "id": "pgjvy5a",
+      "code": "RF-172",
+      "name": "Premium Flannel Check Shacket",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: মেনস প্রিমিয়াম শ্যাকেট।\nপকেট: ২টি চেস্ট পকেট ও ২টি সাইড পকেট।\nফেব্রিক: প্রিমিয়াম ফ্ল্যানেল চেক।\nফেব্রিক ফিল: সফট ও কমফোর্টেবল।\nকোয়ালিটি: হাই কোয়ালিটি।\nডিজাইন: স্টাইলিশ প্লেইড চেক।\nকলার: ক্লাসিক শার্ট কলার।\nক্লোজার: ফ্রন্ট বাটন।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vo9yr6a",
+          "name": "কালো",
+          "hex": "#111111",
+          "imgs": [
+            "images/uoqpwimwvwjjvh.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pnruqba",
+      "code": "RF-171",
+      "name": "Premium Flannel Check Shacket",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: মেনস প্রিমিয়াম শ্যাকেট।\nপকেট: ২টি চেস্ট পকেট ও ২টি সাইড পকেট।\nফেব্রিক: প্রিমিয়াম ফ্ল্যানেল চেক।\nফেব্রিক ফিল: সফট ও কমফোর্টেবল।\nকোয়ালিটি: হাই কোয়ালিটি।\nডিজাইন: স্টাইলিশ প্লেইড চেক।\nকলার: ক্লাসিক শার্ট কলার।\nক্লোজার: ফ্রন্ট বাটন।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vahmnp9",
+          "name": "কালো",
+          "hex": "#0f1012",
+          "imgs": [
+            "images/747efgmwvwjf84.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p20ut8f",
+      "code": "RF-170",
+      "name": "Premium Flannel Check Shacket",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 850,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট টাইপ: মেনস প্রিমিয়াম শ্যাকেট।\nপকেট: ২টি চেস্ট পকেট ও ২টি সাইড পকেট।\nফেব্রিক: প্রিমিয়াম ফ্ল্যানেল চেক।\nফেব্রিক ফিল: সফট ও কমফোর্টেবল।\nকোয়ালিটি: হাই কোয়ালিটি।\nডিজাইন: স্টাইলিশ প্লেইড চেক।\nকলার: ক্লাসিক শার্ট কলার।\nক্লোজার: ফ্রন্ট বাটন।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vn3wof6",
+          "name": "কালো",
+          "hex": "#111112",
+          "imgs": [
+            "images/ar15y7mwvwjb1l.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pz51x3d",
       "code": "RF-168",
       "name": "Cotton Full Sleeve T-Shirt and Trouser Set",
