@@ -177,7 +177,20 @@
       "id": "c-other",
       "name": "অন্যান্য",
       "visible": true,
-      "subs": []
+      "subs": [
+        {
+          "id": "sv70fga",
+          "name": "কম্ফর্টার সেট"
+        },
+        {
+          "id": "sag3zaj",
+          "name": "ডাইনিং টেবিলের কাভার"
+        },
+        {
+          "id": "sza5v4h",
+          "name": "বেডশেড এর কাভার"
+        }
+      ]
     },
     {
       "id": "c1nrfim",
