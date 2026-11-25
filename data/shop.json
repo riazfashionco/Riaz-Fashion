@@ -192,6 +192,40 @@
   ],
   "products": [
     {
+      "id": "pghgc3n",
+      "code": "RF-134",
+      "name": "Stylish High Neck Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Product Details\nপ্রোডাক্ট টাইপ: হাফ জিপার সোয়েটশার্ট\nফেব্রিক: ২/২ রিবড টেক্সচার\nজিএসএম: ২৮০–৩১০\nডিজাইন: হাফ জিপার",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vm2q4ur",
+          "name": "কালো",
+          "hex": "#111111",
+          "imgs": [
+            "images/2n72hhmwvu1zc0.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pcmzdyw",
       "code": "RF-132",
       "name": "Stylish High Neck Sweatshirt",
