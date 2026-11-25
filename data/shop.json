@@ -217,6 +217,130 @@
   ],
   "products": [
     {
+      "id": "phc0n7w",
+      "code": "RF-233",
+      "name": "Bin Hamid Digital Embroidered Ready Dress",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1500,
+      "old": 2500,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ড্রেসের ধরন: পাকিস্তানি ইন্সপায়ার Bin Hamid ডিজিটাল রেডি ড্রেস\nগলার কাজ: সুন্দর এমব্রয়ডারি ওয়ার্ক\nজামার নিচে: লেজার কাট ডিজাইন\nহাতার ডিজাইন: দুই হাতে লেইস বসানো\nওড়না: ৫ হাত লম্বা\nওড়নার কাজ: দুই পাশে কাট ওয়ার্ক\nসেলোয়ার: ফ্রি সাইজ বডি সাইজ 36 থেকে 46 ইঞ্চি পর্যন্ত",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vq1s1nk",
+          "name": "কফি",
+          "hex": "#504a52",
+          "imgs": [
+            "images/d7too3mwvzpfpy.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptw9yvo",
+      "code": "RF-232",
+      "name": "Bin Hamid Digital Embroidered Ready Dress",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1500,
+      "old": 2500,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ড্রেসের ধরন: পাকিস্তানি ইন্সপায়ার Bin Hamid ডিজিটাল রেডি ড্রেস\nগলার কাজ: সুন্দর এমব্রয়ডারি ওয়ার্ক\nজামার নিচে: লেজার কাট ডিজাইন\nহাতার ডিজাইন: দুই হাতে লেইস বসানো\nওড়না: ৫ হাত লম্বা\nওড়নার কাজ: দুই পাশে কাট ওয়ার্ক\nসেলোয়ার: ফ্রি সাইজ বডি সাইজ 36 থেকে 46 ইঞ্চি পর্যন্ত",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vu4teij",
+          "name": "বেইজ",
+          "hex": "#d0aa94",
+          "imgs": [
+            "images/aa3sarmwvzpaw8.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prmschn",
+      "code": "RF-231",
+      "name": "Bin Hamid Digital Embroidered Ready Dress",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1500,
+      "old": 2500,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ড্রেসের ধরন: পাকিস্তানি ইন্সপায়ার Bin Hamid ডিজিটাল রেডি ড্রেস\nগলার কাজ: সুন্দর এমব্রয়ডারি ওয়ার্ক\nজামার নিচে: লেজার কাট ডিজাইন\nহাতার ডিজাইন: দুই হাতে লেইস বসানো\nওড়না: ৫ হাত লম্বা\nওড়নার কাজ: দুই পাশে কাট ওয়ার্ক\nসেলোয়ার: ফ্রি সাইজ বডি সাইজ 36 থেকে 46 ইঞ্চি পর্যন্ত",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vzeq55z",
+          "name": "ধূসর",
+          "hex": "#b2726c",
+          "imgs": [
+            "images/dilfozmwvzp70z.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ppif25s",
+      "code": "RF-230",
+      "name": "Bin Hamid Digital Embroidered Ready Dress",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1500,
+      "old": 2500,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ড্রেসের ধরন: পাকিস্তানি ইন্সপায়ার Bin Hamid ডিজিটাল রেডি ড্রেস\nগলার কাজ: সুন্দর এমব্রয়ডারি ওয়ার্ক\nজামার নিচে: লেজার কাট ডিজাইন\nহাতার ডিজাইন: দুই হাতে লেইস বসানো\nওড়না: ৫ হাত লম্বা\nওড়নার কাজ: দুই পাশে কাট ওয়ার্ক\nসেলোয়ার: ফ্রি সাইজ বডি সাইজ 36 থেকে 46 ইঞ্চি পর্যন্ত",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vbrqre4",
+          "name": "কালো",
+          "hex": "#0c0703",
+          "imgs": [
+            "images/45g438mwvzp18v.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pvdwaee",
       "code": "RF-228",
       "name": "স্কার্ট সেট",
