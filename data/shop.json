@@ -192,6 +192,74 @@
   ],
   "products": [
     {
+      "id": "pmjybql",
+      "code": "RF-157",
+      "name": "Export Quality Winter Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1200,
+      "old": 1700,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Product Details\nProduct Type: Winter Jacket\nMaterial: Premium Soft Fabric\nDesign: Minimalist Stylish Design\nCollar: High Neck Stand Collar\nClosure: Front Zipper\nPocket: Two Side Pockets\nSleeve: Full Sleeve\nFit: Regular Fit",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v3s5kii",
+          "name": "কালো",
+          "hex": "#101012",
+          "imgs": [
+            "images/d5ngktmwvw4qy1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3jogsq",
+      "code": "RF-156",
+      "name": "Export Quality Winter Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1000,
+      "old": 1700,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Product Details\nProduct Type: Winter Jacket\nMaterial: Premium Soft Fabric\nDesign: Minimalist Stylish Design\nCollar: High Neck Stand Collar\nClosure: Front Zipper\nPocket: Two Side Pockets\nSleeve: Full Sleeve\nFit: Regular Fit",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vkzb754",
+          "name": "কালো",
+          "hex": "#282828",
+          "imgs": [
+            "images/vgmed4mwvw4iql.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p21253s",
       "code": "RF-154",
       "name": "Premium Embroidery Full Sleeve Polo Shirt",
