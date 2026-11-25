@@ -192,6 +192,58 @@
   ],
   "products": [
     {
+      "id": "p8kcgki",
+      "code": "RF-128",
+      "name": "Premium Padding Vest Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1000,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧥প্রোডাক্টের ধরন: মেনস স্লিভলেস প্যাডেড জ্যাকেট।\n🌟ডিজাইন: স্টাইলিশ হরাইজন্টাল কুইল্টেড ডিজাইন।\n🧵ফ্যাব্রিক: প্রিমিয়াম কোয়ালিটির প্যাডেড ফেব্রিক।\n✅ক্লোজার: ফ্রন্ট জিপার।\n👉পকেট: সাইড জিপার পকেট।\n💪ফিটিং: কমফোর্টেবল ও স্টাইলিশ।\n🌨️ব্যবহার: ক্যাজুয়াল ও উইন্টার আউটফিট।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0w1tf8",
+          "name": "কফি",
+          "hex": "#323231",
+          "imgs": [
+            "images/f48r6umwvtrwq6.jpg",
+            "images/bj2z1cmwvtscfe.jpg",
+            "images/gtr43omwvtse8o.jpg"
+          ]
+        },
+        {
+          "id": "viua5hy",
+          "name": "বোতল সবুজ",
+          "hex": "#275273",
+          "imgs": [
+            "images/uhqul9mwvts5as.jpg"
+          ]
+        },
+        {
+          "id": "vc7hmhr",
+          "name": "সাদা",
+          "hex": "#efeff4",
+          "imgs": [
+            "images/adt1almwvts876.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "phfuyne",
       "code": "RF-126",
       "name": "Sweatshirt for Winter",
