@@ -217,6 +217,138 @@
   ],
   "products": [
     {
+      "id": "pvdwaee",
+      "code": "RF-228",
+      "name": "স্কার্ট সেট",
+      "cat": "c-girls",
+      "sub": "sk79fl3",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1100,
+      "old": 1600,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Tshirt and Skirt Set\n\nপ্রিমিয়াম কোয়ালিটির টিশার্ট এন্ড স্কার্ট সেট।\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন।\nটিশার্ট বডি সাইজ ফ্রী ৪২ পর্যন্ত।\nস্কার্ট ফেব্রিক্সঃ সফট নেট।\nস্কার্ট লং ৪০ ইঞ্চি।\nস্কার্ট ঘের ২০০+ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhnlcva",
+          "name": "কালো",
+          "hex": "#100f10",
+          "imgs": [
+            "images/lsxj1lmwvzjz6j.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pns8j8w",
+      "code": "RF-227",
+      "name": "স্কার্ট সেট",
+      "cat": "c-girls",
+      "sub": "sk79fl3",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1100,
+      "old": 1600,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Tshirt and Skirt Set\n\nপ্রিমিয়াম কোয়ালিটির টিশার্ট এন্ড স্কার্ট সেট।\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন।\nটিশার্ট বডি সাইজ ফ্রী ৪২ পর্যন্ত।\nস্কার্ট ফেব্রিক্সঃ সফট নেট।\nস্কার্ট লং ৪০ ইঞ্চি।\nস্কার্ট ঘের ২০০+ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v6vjef2",
+          "name": "কমলা",
+          "hex": "#d1920c",
+          "imgs": [
+            "images/3koo1omwvzjs5t.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdrlqvu",
+      "code": "RF-226",
+      "name": "স্কার্ট সেট",
+      "cat": "c-girls",
+      "sub": "sk79fl3",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1100,
+      "old": 1600,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Tshirt and Skirt Set\n\nপ্রিমিয়াম কোয়ালিটির টিশার্ট এন্ড স্কার্ট সেট।\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন।\nটিশার্ট বডি সাইজ ফ্রী ৪২ পর্যন্ত।\nস্কার্ট ফেব্রিক্সঃ সফট নেট।\nস্কার্ট লং ৪০ ইঞ্চি।\nস্কার্ট ঘের ২০০+ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v099qfa",
+          "name": "বাদামি",
+          "hex": "#ab560b",
+          "imgs": [
+            "images/e5ripmmwvzjcsm.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pty9wxd",
+      "code": "RF-225",
+      "name": "স্কার্ট সেট",
+      "cat": "c-girls",
+      "sub": "sk79fl3",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 1100,
+      "old": 1600,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Tshirt and Skirt Set\n\nপ্রিমিয়াম কোয়ালিটির টিশার্ট এন্ড স্কার্ট সেট।\nটিশার্ট ফেব্রিক্সঃ ১০০% কটন।\nটিশার্ট বডি সাইজ ফ্রী ৪২ পর্যন্ত।\nস্কার্ট ফেব্রিক্সঃ সফট নেট।\nস্কার্ট লং ৪০ ইঞ্চি।\nস্কার্ট ঘের ২০০+ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vtwaj1o",
+          "name": "ছাই রঙ",
+          "hex": "#b1b4ac",
+          "imgs": [
+            "images/7sefejmwvzj8xq.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pkcldys",
       "code": "RF-223",
       "name": "New product",
