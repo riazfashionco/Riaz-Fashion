@@ -196,6 +196,108 @@
   ],
   "products": [
     {
+      "id": "pn87gxr",
+      "code": "RF-197",
+      "name": "Baby Blanket",
+      "cat": "c-kids",
+      "sub": "",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "পণ্যের বিবরণ\nদুই পাশেই নরম ফ্ল্যাপি কাপড়\nখুবই নরম ও আরামদায়ক\nশিশুর ঘুম ও বিশ্রামের জন্য উপযোগী\nসুন্দর বিয়ার হুড ডিজাইন\nশিশুকে আরামদায়কভাবে জড়িয়ে রাখে\nব্যবহার করা সহজ\nসাইজঃ ০ থেকে ১০ মাস বেবির জন্য।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vtqx6vq",
+          "name": "মেরুন",
+          "hex": "#700a0e",
+          "imgs": [
+            "images/e3trx3mwvx71ni.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pubmmq6",
+      "code": "RF-196",
+      "name": "Baby Blanket",
+      "cat": "c-kids",
+      "sub": "",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "পণ্যের বিবরণ\nদুই পাশেই নরম ফ্ল্যাপি কাপড়\nখুবই নরম ও আরামদায়ক\nশিশুর ঘুম ও বিশ্রামের জন্য উপযোগী\nসুন্দর বিয়ার হুড ডিজাইন\nশিশুকে আরামদায়কভাবে জড়িয়ে রাখে\nব্যবহার করা সহজ\nসাইজঃ ০ থেকে ১০ মাস বেবির জন্য।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgw3azc",
+          "name": "ক্রিম",
+          "hex": "#fcd8d1",
+          "imgs": [
+            "images/bbhrxvmwvx6vkq.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pk5jbpg",
+      "code": "RF-195",
+      "name": "Baby Blanket",
+      "cat": "c-kids",
+      "sub": "",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 500,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "পণ্যের বিবরণ\nদুই পাশেই নরম ফ্ল্যাপি কাপড়\nখুবই নরম ও আরামদায়ক\nশিশুর ঘুম ও বিশ্রামের জন্য উপযোগী\nসুন্দর বিয়ার হুড ডিজাইন\nশিশুকে আরামদায়কভাবে জড়িয়ে রাখে\nব্যবহার করা সহজ\nসাইজঃ ০ থেকে ১০ মাস বেবির জন্য।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9wpp17",
+          "name": "কফি",
+          "hex": "#4e2a1a",
+          "imgs": [
+            "images/t56zp6mwvx6ptg.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pur4m6x",
       "code": "RF-191",
       "name": "FIFA Hoodie Collection",
