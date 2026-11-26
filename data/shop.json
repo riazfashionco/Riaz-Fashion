@@ -221,6 +221,166 @@
   ],
   "products": [
     {
+      "id": "pf3lc9t",
+      "code": "RF-377",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 800,
+      "old": 1399,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- ফুল স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vn3ekcd",
+          "name": "সাদা",
+          "hex": "#d4eef3",
+          "imgs": [
+            "images/s8ml0bmwxcg4p0.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poj1o8l",
+      "code": "RF-376",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 800,
+      "old": 1399,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- ফুল স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vm0t2a1",
+          "name": "গোলাপি",
+          "hex": "#d791ad",
+          "imgs": [
+            "images/tx4s32mwxcfodd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phiana4",
+      "code": "RF-374",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 800,
+      "old": 1399,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- ফুল স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vs3r17j",
+          "name": "লাল",
+          "hex": "#ad3735",
+          "imgs": [
+            "images/2ax825mwxcfa0a.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pbmdprv",
+      "code": "RF-373",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 800,
+      "old": 1399,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- ফুল স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrcc3pm",
+          "name": "সাদা",
+          "hex": "#eaf0fa",
+          "imgs": [
+            "images/domoypmwxcf6sb.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pzjct4x",
+      "code": "RF-372",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 800,
+      "old": 1399,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- ফুল স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vj9xabb",
+          "name": "সাদা",
+          "hex": "#ebf0f5",
+          "imgs": [
+            "images/wqc2vymwxcf2un.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p9wbpe9",
       "code": "RF-370",
       "name": "Mash T-Shirt and Short Pant Set",
