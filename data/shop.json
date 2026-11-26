@@ -217,6 +217,70 @@
   ],
   "products": [
     {
+      "id": "p012y92",
+      "code": "RF-261",
+      "name": "Cotton Export Fabric Trousers",
+      "cat": "c-boys",
+      "sub": "sl3smfm",
+      "events": [],
+      "price": 550,
+      "old": 1050,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Fabric: 100 % Terry cotton fabric\nManufacture: Made in Bangladesh\nUsage: Regular and sleeping\nSeason : All season\nLooks : Smart and trendy\nWash: Hand and machine",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vos16ii",
+          "name": "কালো",
+          "hex": "#141818",
+          "imgs": [
+            "images/yotm3fmwwvf4zo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2tx1dq",
+      "code": "RF-260",
+      "name": "Cotton Export Fabric Trousers",
+      "cat": "c-boys",
+      "sub": "sl3smfm",
+      "events": [],
+      "price": 550,
+      "old": 1050,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Fabric: 100 % Terry cotton fabric\nManufacture: Made in Bangladesh\nUsage: Regular and sleeping\nSeason : All season\nLooks : Smart and trendy\nWash: Hand and machine",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v1z067d",
+          "name": "নেভি ব্লু",
+          "hex": "#263650",
+          "imgs": [
+            "images/vc53iwmwwvez3i.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pra2h7c",
       "code": "RF-258",
       "name": "Stylish Embroidery Hoodie",
