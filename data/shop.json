@@ -217,6 +217,210 @@
   ],
   "products": [
     {
+      "id": "p4ti28g",
+      "code": "RF-244",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "seixigi",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vqmu4lf",
+          "name": "বোতল সবুজ",
+          "hex": "#073b24",
+          "imgs": [
+            "images/zhllhtmwwv4pzl.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pitbh6v",
+      "code": "RF-243",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "seixigi",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vg72sxt",
+          "name": "বেইজ",
+          "hex": "#dab388",
+          "imgs": [
+            "images/9acn3vmwwv4k1y.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pz9orfe",
+      "code": "RF-242",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "seixigi",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 700,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhlplw5",
+          "name": "মেরুন",
+          "hex": "#530814",
+          "imgs": [
+            "images/ytpy6cmwwv4dr0.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7e9jgi",
+      "code": "RF-240",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 650,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "viau8we",
+          "name": "কালো",
+          "hex": "#121212",
+          "imgs": [
+            "images/24glyemwwv1nfc.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ppb9jb4",
+      "code": "RF-239",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 650,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v5ia560",
+          "name": "মেরুন",
+          "hex": "#52020e",
+          "imgs": [
+            "images/07hyf7mwwv1ic2.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pnusmcn",
+      "code": "RF-238",
+      "name": "Stylish Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 650,
+      "old": 1150,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v555adr",
+          "name": "কালো",
+          "hex": "#062c17",
+          "imgs": [
+            "images/lo71momwwv1e7d.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p9j0e82",
       "code": "RF-236",
       "name": "Premium Trendy Denim Shirt",
