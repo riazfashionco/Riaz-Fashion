@@ -217,6 +217,142 @@
   ],
   "products": [
     {
+      "id": "p70gdmw",
+      "code": "RF-334",
+      "name": "Stylish Ladies Overcoat",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: প্রিমিয়াম সুইট লেদার (ভেলভেট সোয়েড)\nFabrics GSM: 350 GSM\nডিজাইন: স্টাইলিশ বাটন সিস্টেম\nবোতাম: সামনে ৬টি ও হাতায় ২টি, মোট ৮টি স্টাইলিশ বোতাম\nপকেট: দুই পাশে ২টি ব্যবহারযোগ্য পকেট\nবেল্ট: ২ ইঞ্চি চওড়া ও ৮০ ইঞ্চি লম্বা বেল্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v776bwg",
+          "name": "কালো",
+          "hex": "#2f1814",
+          "imgs": [
+            "images/c1t9avmwx9xmgd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pscp09o",
+      "code": "RF-333",
+      "name": "Stylish Ladies Overcoat",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: প্রিমিয়াম সুইট লেদার (ভেলভেট সোয়েড)\nFabrics GSM: 350 GSM\nডিজাইন: স্টাইলিশ বাটন সিস্টেম\nবোতাম: সামনে ৬টি ও হাতায় ২টি, মোট ৮টি স্টাইলিশ বোতাম\nপকেট: দুই পাশে ২টি ব্যবহারযোগ্য পকেট\nবেল্ট: ২ ইঞ্চি চওড়া ও ৮০ ইঞ্চি লম্বা বেল্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v3bu7j9",
+          "name": "কফি",
+          "hex": "#542a12",
+          "imgs": [
+            "images/3owzgjmwx9xim3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pqj3jd9",
+      "code": "RF-332",
+      "name": "Stylish Ladies Overcoat",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: প্রিমিয়াম সুইট লেদার (ভেলভেট সোয়েড)\nFabrics GSM: 350 GSM\nডিজাইন: স্টাইলিশ বাটন সিস্টেম\nবোতাম: সামনে ৬টি ও হাতায় ২টি, মোট ৮টি স্টাইলিশ বোতাম\nপকেট: দুই পাশে ২টি ব্যবহারযোগ্য পকেট\nবেল্ট: ২ ইঞ্চি চওড়া ও ৮০ ইঞ্চি লম্বা বেল্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "vvxpv5m",
+          "name": "কালো",
+          "hex": "#131012",
+          "imgs": [
+            "images/rtp5fkmwx9xehe.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pjr4u9a",
+      "code": "RF-331",
+      "name": "Stylish Ladies Overcoat",
+      "cat": "c-girls",
+      "sub": "soexc7w",
+      "events": [
+        "ew12pax"
+      ],
+      "price": 800,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ফেব্রিক: প্রিমিয়াম সুইট লেদার (ভেলভেট সোয়েড)\nFabrics GSM: 350 GSM\nডিজাইন: স্টাইলিশ বাটন সিস্টেম\nবোতাম: সামনে ৬টি ও হাতায় ২টি, মোট ৮টি স্টাইলিশ বোতাম\nপকেট: দুই পাশে ২টি ব্যবহারযোগ্য পকেট\nবেল্ট: ২ ইঞ্চি চওড়া ও ৮০ ইঞ্চি লম্বা বেল্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New ",
+      "video": "",
+      "variants": [
+        {
+          "id": "v50d1d7",
+          "name": "ছাই রঙ",
+          "hex": "#cdc9ce",
+          "imgs": [
+            "images/icwy8xmwx9xa1b.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pptynkv",
       "code": "RF-329",
       "name": "Stylish Polo Shirt",
