@@ -217,6 +217,454 @@
   ],
   "products": [
     {
+      "id": "pgwqhai",
+      "code": "RF-314",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vcrkjgz",
+          "name": "বেইজ",
+          "hex": "#f5b0cd",
+          "imgs": [
+            "images/bhwt2ymwx9cf7a.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfs37vk",
+      "code": "RF-313",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "viexaw8",
+          "name": "আকাশি",
+          "hex": "#94cecf",
+          "imgs": [
+            "images/miwktjmwx9c89v.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pn2wgvw",
+      "code": "RF-312",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vm48vv3",
+          "name": "সাদা",
+          "hex": "#eae7ed",
+          "imgs": [
+            "images/4zsqljmwx9c2up.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe60jyu",
+      "code": "RF-311",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhywsru",
+          "name": "মেরুন",
+          "hex": "#6b1728",
+          "imgs": [
+            "images/s7rw4vmwx9byef.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdov2pd",
+      "code": "RF-310",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v4w3tap",
+          "name": "বাদামি",
+          "hex": "#903a51",
+          "imgs": [
+            "images/n2pqu2mwx9btrg.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pnt7bk6",
+      "code": "RF-309",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vygopza",
+          "name": "কালো",
+          "hex": "#09090f",
+          "imgs": [
+            "images/h9752rmwx9bphl.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8bekzf",
+      "code": "RF-308",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vscm3pd",
+          "name": "কালো",
+          "hex": "#0d0c0e",
+          "imgs": [
+            "images/8fdt9rmwx9bkw9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pphw5o3",
+      "code": "RF-307",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8r20vo",
+          "name": "কফি",
+          "hex": "#522738",
+          "imgs": [
+            "images/qn9mxomwx9bg68.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p87m3v4",
+      "code": "RF-306",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v585654",
+          "name": "কালো",
+          "hex": "#151515",
+          "imgs": [
+            "images/7jrj3fmwx9b9uk.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pj7wfie",
+      "code": "RF-305",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vt44zdd",
+          "name": "কমলা",
+          "hex": "#cd8c2a",
+          "imgs": [
+            "images/l12242mwx9b3z1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ph4mr7c",
+      "code": "RF-304",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v1mohmy",
+          "name": "মেরুন",
+          "hex": "#671a2e",
+          "imgs": [
+            "images/f2u3jfmwx9azcm.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1q5ula",
+      "code": "RF-303",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vkjas1j",
+          "name": "নেভি ব্লু",
+          "hex": "#0c2638",
+          "imgs": [
+            "images/634wd3mwx9auf5.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pri4h50",
+      "code": "RF-302",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v6mc45b",
+          "name": "কালো",
+          "hex": "#2f0908",
+          "imgs": [
+            "images/p44cmumwx9al2a.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pjv8mqt",
+      "code": "RF-300",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 550,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Perfect for summer – lightweight & breathable\nStays wrinkle-free for days after one iron\nSuitable for both formal & semi-formal wear\nComfortable, breathable fabric for all-day use",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vjsdf2i",
+          "name": "লিলাক",
+          "hex": "#d2adcb",
+          "imgs": [
+            "images/sq9ibsmwx9abxi.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pg00grn",
       "code": "RF-298",
       "name": "Premium Cotton Drop Shoulder Tshirt",
