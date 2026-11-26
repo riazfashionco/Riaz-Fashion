@@ -217,6 +217,166 @@
   ],
   "products": [
     {
+      "id": "pvzo4al",
+      "code": "RF-358",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2500,
+      "old": 3900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vkq77xn",
+          "name": "লাল",
+          "hex": "#b20e27",
+          "imgs": [
+            "images/0j6u8jmwxbzdt1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ph0h2er",
+      "code": "RF-357",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2500,
+      "old": 3900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8r9qq7",
+          "name": "লাল",
+          "hex": "#d1072a",
+          "imgs": [
+            "images/kq4hvumwxbz9zf.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1t4sf0",
+      "code": "RF-356",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2500,
+      "old": 3900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v5766tz",
+          "name": "বাদামি",
+          "hex": "#b25129",
+          "imgs": [
+            "images/9pajs3mwxbz6ba.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10291q",
+      "code": "RF-355",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2500,
+      "old": 3900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vs42b3m",
+          "name": "নেভি ব্লু",
+          "hex": "#2e374e",
+          "imgs": [
+            "images/n3le7omwxbz2ih.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pagc2oe",
+      "code": "RF-354",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2500,
+      "old": 3900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vbtdh45",
+          "name": "কালো",
+          "hex": "#2d0e0f",
+          "imgs": [
+            "images/6iu1i1mwxbyyh2.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pxaz2nj",
       "code": "RF-352",
       "name": "Cotton Embroidery Three Piece",
