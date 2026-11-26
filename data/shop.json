@@ -217,6 +217,134 @@
   ],
   "products": [
     {
+      "id": "p946f3l",
+      "code": "RF-267",
+      "name": "BAGGY TROUSER",
+      "cat": "c-boys",
+      "sub": "s-baggy",
+      "events": [],
+      "price": 700,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Premium Quality | 100% Cotton Fabric\nFabric: 100% Cotton\nSoft & Comfortable\nBreathable Fabric\nPremium Quality\nPerfect for Everyday Wear",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "va44byw",
+          "name": "সাদা",
+          "hex": "#efede9",
+          "imgs": [
+            "images/i3jylymwwvi9ew.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pylq429",
+      "code": "RF-266",
+      "name": "BAGGY TROUSER",
+      "cat": "c-boys",
+      "sub": "s-baggy",
+      "events": [],
+      "price": 700,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Premium Quality | 100% Cotton Fabric\nFabric: 100% Cotton\nSoft & Comfortable\nBreathable Fabric\nPremium Quality\nPerfect for Everyday Wear",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9r53s4",
+          "name": "কালো",
+          "hex": "#191919",
+          "imgs": [
+            "images/281fh6mwwvi56k.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p31uh0l",
+      "code": "RF-265",
+      "name": "BAGGY TROUSER",
+      "cat": "c-boys",
+      "sub": "s-baggy",
+      "events": [],
+      "price": 700,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Premium Quality | 100% Cotton Fabric\nFabric: 100% Cotton\nSoft & Comfortable\nBreathable Fabric\nPremium Quality\nPerfect for Everyday Wear",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vute6wa",
+          "name": "ছাই রঙ",
+          "hex": "#afafb3",
+          "imgs": [
+            "images/iyn6ggmwwvi0tt.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfi2rmg",
+      "code": "RF-264",
+      "name": "BAGGY TROUSER",
+      "cat": "c-boys",
+      "sub": "s-baggy",
+      "events": [],
+      "price": 700,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Premium Quality | 100% Cotton Fabric\nFabric: 100% Cotton\nSoft & Comfortable\nBreathable Fabric\nPremium Quality\nPerfect for Everyday Wear",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vyfjohj",
+          "name": "কালো",
+          "hex": "#121114",
+          "imgs": [
+            "images/xx1427mwwvhuoa.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p012y92",
       "code": "RF-261",
       "name": "Cotton Export Fabric Trousers",
