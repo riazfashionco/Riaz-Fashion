@@ -157,12 +157,12 @@
           "name": "বোরকা"
         },
         {
-          "id": "sk79fl3",
-          "name": "স্কার্ট সেট।"
+          "id": "sws9xv8",
+          "name": "ব্রা"
         },
         {
-          "id": "swjfgmy",
-          "name": "বডিস"
+          "id": "sk79fl3",
+          "name": "স্কার্ট সেট।"
         }
       ]
     },
@@ -220,6 +220,134 @@
     }
   ],
   "products": [
+    {
+      "id": "pk1k898",
+      "code": "RF-363",
+      "name": "Desing Back support Slim Comfort Bra",
+      "cat": "c-girls",
+      "sub": "",
+      "events": [],
+      "price": 500,
+      "old": 799,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "এই ব্রা নিয়মিত ব্যবহার করার কারনে যাদের বেক-পেইন জনিত সমস্যা আছে\nতাদের বেক-পেইন দূর হবে এবং মেরুদন্ডকে সোজা রাখতে সাহায্য করে\nযারা অফিসে কিংবা বাসায় চেয়ারে বসে কাজ করেন তাদের বেক-পেইন সমস্যা দূর করতে\nএবং মেরুন্ডকে সোজা রাখতে 100% কার্যকরী\nআমাদের এই Desing Back support slim comfort Bra টি ব্যবহার করুন\nSize :\nM=30,32,34\nL=36,38\nXL=40,42\nXXL=44,46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vk2uesm",
+          "name": "অলিভ",
+          "hex": "#696d57",
+          "imgs": [
+            "images/h2y2gymwxc7oq5.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pi7dqdx",
+      "code": "RF-362",
+      "name": "Desing Back support Slim Comfort Bra",
+      "cat": "c-girls",
+      "sub": "",
+      "events": [],
+      "price": 500,
+      "old": 799,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "এই ব্রা নিয়মিত ব্যবহার করার কারনে যাদের বেক-পেইন জনিত সমস্যা আছে\nতাদের বেক-পেইন দূর হবে এবং মেরুদন্ডকে সোজা রাখতে সাহায্য করে\nযারা অফিসে কিংবা বাসায় চেয়ারে বসে কাজ করেন তাদের বেক-পেইন সমস্যা দূর করতে\nএবং মেরুন্ডকে সোজা রাখতে 100% কার্যকরী\nআমাদের এই Desing Back support slim comfort Bra টি ব্যবহার করুন\nSize :\nM=30,32,34\nL=36,38\nXL=40,42\nXXL=44,46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2l99xd",
+          "name": "কালো",
+          "hex": "#151923",
+          "imgs": [
+            "images/kzdso7mwxc7lat.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfon3c7",
+      "code": "RF-361",
+      "name": "Desing Back support Slim Comfort Bra",
+      "cat": "c-girls",
+      "sub": "",
+      "events": [],
+      "price": 500,
+      "old": 799,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "এই ব্রা নিয়মিত ব্যবহার করার কারনে যাদের বেক-পেইন জনিত সমস্যা আছে\nতাদের বেক-পেইন দূর হবে এবং মেরুদন্ডকে সোজা রাখতে সাহায্য করে\nযারা অফিসে কিংবা বাসায় চেয়ারে বসে কাজ করেন তাদের বেক-পেইন সমস্যা দূর করতে\nএবং মেরুন্ডকে সোজা রাখতে 100% কার্যকরী\nআমাদের এই Desing Back support slim comfort Bra টি ব্যবহার করুন\nSize :\nM=30,32,34\nL=36,38\nXL=40,42\nXXL=44,46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0rrdr2",
+          "name": "কালো",
+          "hex": "#120e13",
+          "imgs": [
+            "images/n7a1phmwxc7hpp.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pt37fnx",
+      "code": "RF-360",
+      "name": "Desing Back support Slim Comfort Bra",
+      "cat": "c-girls",
+      "sub": "",
+      "events": [],
+      "price": 500,
+      "old": 799,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "এই ব্রা নিয়মিত ব্যবহার করার কারনে যাদের বেক-পেইন জনিত সমস্যা আছে\nতাদের বেক-পেইন দূর হবে এবং মেরুদন্ডকে সোজা রাখতে সাহায্য করে\nযারা অফিসে কিংবা বাসায় চেয়ারে বসে কাজ করেন তাদের বেক-পেইন সমস্যা দূর করতে\nএবং মেরুন্ডকে সোজা রাখতে 100% কার্যকরী\nআমাদের এই Desing Back support slim comfort Bra টি ব্যবহার করুন\nSize :\nM=30,32,34\nL=36,38\nXL=40,42\nXXL=44,46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0nwj5d",
+          "name": "বেইজ",
+          "hex": "#d5ae93",
+          "imgs": [
+            "images/hvwxu5mwxc7dxd.jpg"
+          ]
+        }
+      ]
+    },
     {
       "id": "pvzo4al",
       "code": "RF-358",
